@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#download"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android" /></a>
-  <a href="#download"><img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version" /></a>
+  <a href="#download"><img src="https://img.shields.io/badge/Version-1.1-blue" alt="Version" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License" /></a>
   <a href="#supported-models"><img src="https://img.shields.io/badge/Engine-llama.cpp-orange" alt="llama.cpp" /></a>
 </p>
@@ -94,7 +94,7 @@ Switch between 5 built-in roles that change how the AI responds:
 
 ### Latest Release
 
-> **[Download devshakti-v1.0.apk](https://github.com/shivnathtathe/DevShakti-releases/releases/latest)** from GitHub Releases
+> **[Download devshakti-v1.1.apk](https://github.com/shivnathtathe/DevShakti-releases/releases/tag/v1.1)** from GitHub Releases
 
 ### Requirements
 
@@ -107,7 +107,7 @@ Switch between 5 built-in roles that change how the AI responds:
 
 ### Installation
 
-1. Go to the [Releases](https://github.com/shivnathtathe/DevShakti-releases/releases/latest) page
+1. Go to the [Releases](https://github.com/shivnathtathe/DevShakti-releases/releases/tag/v1.1) page
 2. Download the `.apk` file
 3. Enable **Install from Unknown Sources** in your Android settings if prompted
 4. Install and open DevShakti
@@ -123,7 +123,7 @@ All models use **Q4_K_M quantization** for the best balance of quality and speed
 | Model | Parameters | Size | RAM Needed | Best For |
 |-------|-----------|------|------------|----------|
 | **TinyLlama 1.1B** | 1.1B | ~670 MB | ~1 GB | Quick responses, low-end devices |
-| **Phi-2 2.7B** | 2.7B | ~1.6 GB | ~2.5 GB | Good balance of speed and reasoning |
+| **Phi-3.5 Mini 3.8B** | 3.8B | ~2.4 GB | ~3.5 GB | Strong reasoning, built-in chat template |
 | **Gemma 2B** | 2B | ~1.5 GB | ~2.2 GB | Strong instruction following |
 | **Llama 3 8B** | 8B | ~4.9 GB | ~6 GB | Highest quality, flagship phones |
 

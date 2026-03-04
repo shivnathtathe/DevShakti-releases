@@ -2,6 +2,19 @@
 
 All notable changes to DevShakti will be documented in this file.
 
+## [1.1] - 2026-03-04
+
+### Fixed
+- Replaced Phi-2 (base model) with Phi-3.5 Mini Instruct — Phi-2 was not chat-trained and produced gibberish
+- Added missing Gemma `<end_of_turn>` stop token — Gemma models would ramble past response boundary
+- Added GGUF magic bytes validation after model download — corrupt files now detected immediately
+
+### Changed
+- Model catalogue now enforces instruction-tuned / chat models only
+- Updated model filenames to match exact Hugging Face filenames
+
+---
+
 ## [1.0] - 2026-02-28
 
 ### Added
