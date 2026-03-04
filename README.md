@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/devshakti-banner.png" alt="DevShakti Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">DevShakti</h1>
 
