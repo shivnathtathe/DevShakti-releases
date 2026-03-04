@@ -94,7 +94,7 @@ Switch between 5 built-in roles that change how the AI responds:
 
 ### Latest Release
 
-> **[Download devshakti-v1.0.apk](https://github.com/ShivnathTathe/DevShakti/releases/latest)** from GitHub Releases
+> **[Download devshakti-v1.0.apk](https://github.com/shivnathtathe/DevShakti-releases/releases/latest)** from GitHub Releases
 
 ### Requirements
 
@@ -107,7 +107,7 @@ Switch between 5 built-in roles that change how the AI responds:
 
 ### Installation
 
-1. Go to the [Releases](https://github.com/ShivnathTathe/DevShakti/releases/latest) page
+1. Go to the [Releases](https://github.com/shivnathtathe/DevShakti-releases/releases/latest) page
 2. Download the `.apk` file
 3. Enable **Install from Unknown Sources** in your Android settings if prompted
 4. Install and open DevShakti
